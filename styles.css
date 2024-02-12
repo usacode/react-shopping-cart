@@ -27,6 +27,7 @@ button {
 
 }
 
+.increase-button,
 .add-button {
   background-color: lightgreen;
 }
@@ -37,8 +38,4 @@ button {
 
 .remove-button {
   background-color: lightcoral;
-}
-
-.increase-button {
-  background-color: lightgreen;
 }
