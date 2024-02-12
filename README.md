@@ -1,7 +1,7 @@
 # react-shopping-cart
 
 - Function Components and State Management:
-  The code utilizes React function components and the useState hook to manage the state of the shopping cart.
+The code utilizes React function components and the useState hook to manage the state of the shopping cart.
 
 - Available Items:
   The availableItems array contains objects representing items available for purchase in the store. Each object includes properties such as product (the name of the item) and inStock (the quantity of the item available in stock).
